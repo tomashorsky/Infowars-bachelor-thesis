@@ -14,13 +14,13 @@ Hlavním cílem hry je umožnit účastníkům lépe pochopit principy informač
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="docs/images/obrazovka1.jpeg" height="300" alt="Rozhraní týmu">
+      <img src="obrazovka1.jpeg" height="300" alt="Rozhraní týmu">
     </td>
     <td align="center" width="33%">
-      <img src="docs/images/obrazovka2.jpeg" height="300" alt="Manipulační nástroje">
+      <img src="obrazovka2.jpeg" height="300" alt="Manipulační nástroje">
     </td>
     <td align="center" width="33%">
-      <img src="docs/images/obrazovka3.jpeg" height="300" alt="Přehled států">
+      <img src="obrazovka3.jpeg" height="300" alt="Přehled států">
     </td>
   </tr>
   <tr>
